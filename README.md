@@ -1,6 +1,6 @@
 # Parallel_Computation_MPI_OpenMP
 
-
+This is a parallel program that calculates the maximum value of a given mathematical function for an array of numbers using OpenMP and MPI
 To run this program on terminal:
 
 Enter this line : sudo apt-get install libopenmpi-dev
